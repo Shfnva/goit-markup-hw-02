@@ -74,8 +74,6 @@ body {
   color: #ffffff;
 }
 .btn {
-  border-radius: 4px;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -115,7 +113,10 @@ body {
     text-transform: capitalize;
     color:  #2E2F42;
 }
-.container-list {
+.container {
+    background-color: #FFFFFF;
+}
+.container-items {
     background-color: #FFFFFF;
 }
 .container-title {
